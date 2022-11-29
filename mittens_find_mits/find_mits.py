@@ -1,3 +1,5 @@
+# use case: CTF https://acmcyber.com/challenges#mittens
+
 solution_lines = []
 allowed_chars = ["\\","`","/","_","\n"," ",","]
 
